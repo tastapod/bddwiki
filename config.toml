@@ -1,3 +1,67 @@
-baseURL = "http://example.org/"
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
+
+#baseURL = 'https://behaviourdriven.org/'
+title = 'BDD Wiki'
+theme = "ace-documentation"
+
 languageCode = "en-us"
-title = "My New Hugo Site"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+# pygmentsCodeFences = true
+# pygmentsStyle = "monokailight"
+
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	orderSectionsBy = "weight" # or "title"
+	disableSearch = false
+	disableReadmoreNav = true
+	highlightClientSide = false
+	menuShortcutsNewTab = false
+	disablePathToLower = true
+
+	# General information
+	author = "tastapod"
+	description = "The BDD wiki"
+	copyright = "CC-BY 4.0"
+
+	# Repository
+	# provider = "GitHub"
+	# repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
+
+	# version = "1.0.0"
+	# logo = "images/logo.png"
+	# favicon = ""
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "blue"
+    	accent  = "teal"
+
+    [params.font]
+    	text = "Helvetica Neue"
+    	code = "Monaco"
+
+
+[social]
+	twitter = "tastapod"
+	github  = "tastapod"
+	email   = ""
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
