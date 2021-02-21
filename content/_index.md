@@ -29,7 +29,7 @@ Feel free to edit anything you find to make it clearer or to add your opinion (a
 Interesting starting points:
 
 - {{%wiki Introduction %}}: A brief overview
-- {{%wiki TheBDDProcess %}}: A description of a development process using BDD
+- {{%wiki TheBddProcess %}}: A description of a development process using BDD
 - {{%wiki BehaviourDrivenAnalysis %}}: How do we approach analysis for BDD?
 - {{%wiki BehaviourDrivenProgramming %}}: What changes do we make to our approach to programming?
 - More {{%wiki DescriptionsOfBDD %}}: other ways of describing the cat-skinning process
