@@ -32,7 +32,7 @@ Interesting starting points:
 - {{%wiki TheBddProcess %}}: A description of a development process using BDD
 - {{%wiki BehaviourDrivenAnalysis %}}: How do we approach analysis for BDD?
 - {{%wiki BehaviourDrivenProgramming %}}: What changes do we make to our approach to programming?
-- More {{%wiki DescriptionsOfBDD %}}: other ways of describing the cat-skinning process
-- {{%wiki DanNorth %}} has written [an article describing how BDD evolved](http://dannorth.net/introducing-bdd).
-- {{%wiki LizKeogh %}} has updated the page on Wikipedia.
-- {{%wiki Implementations %}}: Tools for implementing BDD. 
+- More {{%wiki DescriptionsOfBdd %}}: other ways of describing the cat-skinning process
+- {{%wiki DanielNorth %}} has written [an article describing how BDD evolved](http://dannorth.net/introducing-bdd).
+- {{%wiki LizKeogh %}} has updated [the page on Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development).
+- {{%wiki BddTools %}}: Tools for implementing BDD.
