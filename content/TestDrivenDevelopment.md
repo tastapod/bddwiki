@@ -7,7 +7,7 @@ Test Driven Development (aka TDD) is a programming technique that encourages an 
 
 It encourages programmers to write tests before they write the code that the tests interact with as a means of focusing the programmer's attention on the problem that they are intending to solve rather than on the solution. This has many positive outcomes.
 
-TDD is often associated with {{%link ExtremeProgramming %}}.
+TDD is often associated with {{%wiki ExtremeProgramming %}}.
 
 We have recognized a TDDAdoptionProfile that is common in developers learning the process.
 
