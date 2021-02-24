@@ -1,5 +1,6 @@
 ---
 title: BehaviourDrivenDevelopment
+draft: false
 ---
 
 Behaviour-Driven Development (BDD) is an evolution in the thinking behind {{%wiki TestDrivenDevelopment %}} and {{%wiki AcceptanceTestDrivenPlanning %}}.
@@ -16,7 +17,7 @@ It presents a framework of activity based on three core principles:
 
 3. Up-front analysis, design and planning all have a diminishing return - {{%wiki EnoughIsEnough %}}
 
-BDD relies on the use of a very specific (and small) vocabulary to minimise miscommunication and to ensure that everyone – the business, developers, testers, analysts and managers – are not only on the same page but using the same words.
+BDD relies on the use of a very specific (and small) vocabulary to minimise miscommunication and to ensure that everyone – business stakeholders, developers, testers, analysts and managers – are not only on the same page but using the same words.
 
 For people familiar with the concept of {{%wiki DomainDrivenDesign %}}, you could consider BDD to be a {{%wiki UbiquitousLanguage %}} for software development.
 
